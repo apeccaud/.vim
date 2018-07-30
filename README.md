@@ -3,5 +3,5 @@
 ## Installation
 
 - `cd ~`
-- `git clone https://github.com/apeccaud/.vim`
+- `git clone --recurse-submodules https://github.com/apeccaud/.vim`
 - `ln -s ~/.vim/vimrc ~/.vimrc`
