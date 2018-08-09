@@ -24,8 +24,8 @@ set hlsearch
 set showmatch
 
 " NERDTree
-autocmd VimEnter * NERDTree
-autocmd VimEnter * wincmd p
+" autocmd VimEnter * NERDTree
+" autocmd VimEnter * wincmd p
 let NERDTreeIgnore=['\.swp']
 let NERDTreeShowHidden=1
 let NERDTreeMapActivateNode='<right>'
